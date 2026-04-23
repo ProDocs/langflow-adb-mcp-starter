@@ -56,10 +56,6 @@ Deliver answers that are:
 - Transparent about knowledge gaps
 - Reliable and traceable to the knowledge base
 
-🔹 Human Prompt (User Message Template)
-
-User question:
-{question}
 
 Use the SEARCH_TOPK tool to retrieve relevant information
 from the knowledge base before answering.
